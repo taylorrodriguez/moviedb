@@ -6,7 +6,6 @@
 
 body {
   font-family: "Raleway", sans-serif;
-  /* background-color: #223343; */
   background-color: #722620;
 }
 
@@ -70,7 +69,6 @@ section {
   font-size: 20px;
   font-weight: 600;
   padding: 10px;
-  /* background: #445565; */
   background: #30110d;
   flex: 1 1 100%;
   transition: 0.4s ease-out;
@@ -86,7 +84,6 @@ section {
   left: 0;
   width: 100vw;
   height: 100vh;
-  /* background-color: #445565; */
   background-color: #722620;
   overflow-y: scroll;
 }
@@ -145,7 +142,7 @@ section {
   transition: 0.4s ease-out;
 }
 .popup .content .close:hover {
-  color:#f2bc94;
+  color: #f2bc94;
   background: #30110d;
 }
 
