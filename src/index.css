@@ -99,17 +99,19 @@ section {
   font-size: 28px;
   font-weight: 600;
 }
-.popup .content h2 span {
+.popup .content h2 span,
+.popup .content .plot,
+.popup .content .rating {
   font-family: "Cabin", sans-serif;
+}
+.popup .content h2 span {
   font-weight: 300;
   font-size: 20px;
 }
 .popup .content .rating {
-  font-family: "Cabin", sans-serif;
   margin-bottom: 30px;
 }
 .popup .content .plot {
-  font-family: "Cabin", sans-serif;
   background-color: #30110d;
   border-radius: 8px;
   padding: 10px;
